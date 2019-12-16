@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Chose.cpp
+d:\is1-21\chose\chose\chose.cpp(24): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Chose.vcxproj -> D:\IS1-21\Chose\Debug\Chose.exe
